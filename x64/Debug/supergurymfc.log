@@ -1,0 +1,152 @@
+﻿  CommandBar.cpp
+  iobfix.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\iobfix.cpp(7,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  md5.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\md5.cpp(363,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  serializer.h
+C:\Users\goope\source\repos\Gury3d\supergurymfc\serializer.h(26,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  poll.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\poll.cpp(206,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  application.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\application.cpp(123,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  appSteps.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\appSteps.cpp(213,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  backpack.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\backpack.cpp(42,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  backpackItem.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\backpackItem.cpp(176,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  brickcolor.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\brickcolor.cpp(171,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  camera.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\camera.cpp(218,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  CameraControlMenu.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\CameraControlMenu.cpp(25,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  camera_utils.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\camera_utils.cpp(130,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  classes.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\classes.cpp(59,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  clonebin.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\clonebin.cpp(82,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  content.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\content.cpp(86,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  controller.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\controller.cpp(74,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  crashreporter.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\crashreporter.cpp(31,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  datamodel.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ISelectable.h(3,10): fatal  error C1083: Cannot open include file: 'G3DAll.h': No such file or directory
+  decal.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\decal.cpp(68,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  ExplNgine.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ExplNgine.cpp(236,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  gametool.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\gametool.cpp(138,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiBox.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiBox.cpp(15,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiButton.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiButton.cpp(78,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  guid.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\guid.cpp(53,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiHint.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiHint.cpp(17,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiImage.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiImage.cpp(40,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiImageButton.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiImageButton.cpp(71,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiLabel.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiLabel.cpp(21,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiList.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiList.cpp(63,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiMessage.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiMessage.cpp(17,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GuiRoot.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\GuiRoot.cpp(36,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  humanoid.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\humanoid.cpp(263,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  idserializer.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\idserializer.cpp(43,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  instance.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\instance.cpp(162,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  instancemt.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\instancemt.cpp(122,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  jointservice.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\jointservice.cpp(154,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  keyboard.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\keyboard.cpp(68,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lighting.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\lighting.cpp(94,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  log.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ISelectable.h(3,10): fatal  error C1083: Cannot open include file: 'G3DAll.h': No such file or directory
+  Generating Code...
+  Compiling...
+  luargs.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\luargs.cpp(30,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  MenuBar.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\MenuBar.cpp(36,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  mesh.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\mesh.cpp(95,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  model.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\model.cpp(200,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  motor.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\motor.cpp(29,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Mouse.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\Mouse.cpp(81,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  networkclient.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\networkclient.cpp(96,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  oscontext.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\oscontext.cpp(55,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  part.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\part.cpp(43,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  players.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\players.cpp(162,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  plr_controller.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\plr_controller.cpp(142,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  primitives.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\primitives.cpp(50,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  pvinstance.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\pvinstance.cpp(409,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ray.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ray.cpp(75,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  replicator.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\replicator.cpp(406,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  rightkeyboard.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\rightkeyboard.cpp(7,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  runservice.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\runservice.cpp(75,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  scene.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\scene.cpp(157,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  scriptcontext.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\scriptcontext.cpp(59,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  selection.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ISelectable.h(3,10): fatal  error C1083: Cannot open include file: 'G3DAll.h': No such file or directory
+  Generating Code...
+  Compiling...
+  serializer.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\serializer.cpp(285,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  snaps.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\snaps.cpp(159,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  sound.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\sound.cpp(29,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  sounds.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\sounds.cpp(26,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  stdout.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\stdout.cpp(15,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  surfaces.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\surfaces.cpp(95,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  thumbnailGenerator.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\thumbnailGenerator.cpp(96,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  valuebridge.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\valuebridge.cpp(108,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  view.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\view.cpp(91,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  workspace.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\workspace.cpp(134,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  appmanager.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\appmanager.cpp(168,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ChildFrm.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ChildFrm.cpp(111,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ClassView.cpp
+C:\Users\goope\source\repos\Gury3d\supergurymfc\ISelectable.h(3,10): fatal  error C1083: Cannot open include file: 'G3DAll.h': No such file or directory
+  MainFrm.cpp
